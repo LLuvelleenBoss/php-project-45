@@ -1,0 +1,19 @@
+{
+    "name": "hexlet/code",
+    "description": "Brain Games project from Hexlet",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Hexlet\\Code\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Goldberg"
+        }
+    ],
+    "require": {},
+    "bin": [
+        "bin/brain-games"
+    ]
+}
